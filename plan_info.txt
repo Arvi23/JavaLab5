@@ -1,0 +1,3 @@
+Plan: Plan Dezvoltare 2024
+Responsabil: Ion Popescu, Salariu: 3000
+Etapa 1: fortini, Start: 5, Sfarsit: 8
